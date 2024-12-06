@@ -1,13 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-'''
-@author: Vencent_Wang
-@contact: Vencent_Wang@outlook.com
-@file: main.py
-@time: 2023/8/13 20:05
-@desc:
-'''
 import os
 import copy
 import torch
